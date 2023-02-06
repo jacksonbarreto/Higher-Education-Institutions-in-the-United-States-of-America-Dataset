@@ -1,4 +1,4 @@
-# American Higher Education Institutions Dataset
+# Higher Education Institutions in the United States of America Dataset
 
 This repository contains a dataset of higher education institutions in the United States of America.
 This dataset was compiled in response to a cybersecurity investigation of American higher education institutions' websites [1]. The data is being made publicly available to promote open science principles [2].
