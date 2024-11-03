@@ -25,6 +25,10 @@ The institution's status was labeled with the following values: A (Active), N (N
 
 A filter was applied to the report to retain only institutions with an A, N, or R status, resulting in 1,978 institutions. Finally, a data cleaning process was applied, which involved removing the whitespace at the beginning and end of cell content and duplicate whitespace. The final data were compiled into the dataset included in this repository.
 
+On November 3, 2024, a data update discovered that seven institutions had their teaching activities closed in a few States, Massachusetts, Pennsylvania, Virginia, South Dakota, and West Virginia with one closed institution in each State, and California with two closed institutions, where these institutions are namely, Pine Manor College, Hussian College-Philadelphia, Stratford University, Sioux Falls Seminary, Alderson Broaddus University, California Christian College, San Francisco Art Institute by the previously referenced states. It’s also important to note that all referenced institutions are private.      
+
+After the data update, the total number of institutions was reduced to 1,971. 
+
 ## Usage
 
 This data is available under the Creative Commons Zero (CC0) license and can be used for any purpose, including academic research purposes. We encourage the sharing of knowledge and the advancement of research in this field by adhering to open science principles [2].
